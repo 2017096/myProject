@@ -1,3 +1,3 @@
 # myProject
 <bra>
-This is my new projct.
+This is my new project.
